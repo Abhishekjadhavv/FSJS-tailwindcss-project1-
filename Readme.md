@@ -3,4 +3,4 @@
 In This project I have built clone of Paytm website by
 using tailwind css 
 
-[project-link](http://abhihshekjadhav.netlify.app)
+[project-link](https://abhi19.netlify.app/)
